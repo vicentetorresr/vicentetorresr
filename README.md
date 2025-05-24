@@ -24,3 +24,7 @@
 ## 📈 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vicentetorresr&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentetorresr&show_icons=true&theme=ayu-mirage&hide=stars,prs)

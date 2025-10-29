@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vicente Torres
 
-- 🌍 I'm a 25-year-old developer from Chile, passionate about clean code, creative problem solving, and building meaningful software.
+- 🌍 I'm a 25-year-old developer from Chile, passionate about solutions, creative problem solving, and building meaningful software.
 
 - 💼 I mainly work as a Full-Stack Developer, with a strong focus on Backend Development.
 
@@ -23,4 +23,4 @@
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vicentetorresr&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true&starting_year=2024)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vicentetorresr&theme=ayu-mirage&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)

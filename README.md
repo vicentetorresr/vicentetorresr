@@ -61,7 +61,8 @@
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
-
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNSA1SDkuNXYxNEgxMS41VjVaTTE1LjUgOEgxMy41VjE5SDE1LjVWOFpNMTkuNSA5SDE3LjVWMThIMTk1VjlMMTk1IDlaTTYuNSA3SDQuNXYxMkg2LjVWN1oiIGZpbGw9ImJsYWNrIi8+PC9zdmc+)](https://powerbi.microsoft.com/)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTYgNkwxOCA2TDE4IDE4TDYgMThMNiA2WiIvPjwvc3ZnPg==)](https://aws.amazon.com/bedrock/)
 
 ## 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentetorresr&layout=compact&theme=ayu-mirage)

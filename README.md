@@ -64,8 +64,5 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNSA1SDkuNXYxNEgxMS41VjVaTTE1LjUgOEgxMy41VjE5SDE1LjVWOFpNMTkuNSA5SDE3LjVWMThIMTk1VjlMMTk1IDlaTTYuNSA3SDQuNXYxMkg2LjVWN1oiIGZpbGw9ImJsYWNrIi8+PC9zdmc+)](https://powerbi.microsoft.com/)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTYgNkwxOCA2TDE4IDE4TDYgMThMNiA2WiIvPjwvc3ZnPg==)](https://aws.amazon.com/bedrock/)
 
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentetorresr&layout=compact&theme=ayu-mirage)
-
 ## 📈 GitHub Streak
 ![Vicente GitHub Streak](https://streak-stats.demolab.com?user=vicentetorresr&theme=ayu_mirage&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
